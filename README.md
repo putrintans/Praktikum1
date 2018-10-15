@@ -84,3 +84,5 @@ int main()
     cout << "angka" << besar << "lebih besar dari angka " << kecil << endl;
     cout << "angka" << kecil << "lebih kecil dari angka " << besar << endl;
 }
+# Praktikum2
+# Praktikum2
